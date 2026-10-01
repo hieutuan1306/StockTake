@@ -1,7 +1,5 @@
-// Maxidi Stocktake V2 - Firebase configuration
-// Replace the placeholder values below with your Firebase Web App config.
-// Keep this file in the same folder as index.html on GitHub Pages.
-
+// MAXIDI Stocktake - Firebase Web configuration
+// Dán Firebase Web App config thật vào đây rồi upload cùng index.html lên GitHub.
 window.MAXIDI_FIREBASE_CONFIG = {
   apiKey: "YOUR_API_KEY",
   authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
